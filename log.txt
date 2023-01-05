@@ -1,0 +1,811 @@
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.11 23:56:08 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.11 23:56:08 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.11 23:56:09 ➾ Cookies accepted!
+2022.12.11 23:56:12 ➾ Searched item: fanus
+2022.12.11 23:56:13 ➾ Clicking search button!
+2022.12.11 23:56:17 ➾ Clicking second item!
+2022.12.11 23:56:19 ➾ ITEM TITLE is: Paşabahçe Patisseri Ayaklı Cam Kapaklı Kek Fanusu Fiyatı
+2022.12.11 23:56:19 ➾ ITEM URL is: https://www.hepsiburada.com/pasabahce-patisseri-ayakli-cam-kapakli-kek-fanusu-p-MTFID95200
+2022.12.11 23:56:19 ➾ ITEM PRICE is: 290,00 TL
+2022.12.11 23:56:20 ➾ Navigated to Comment Page!
+2022.12.11 23:56:21 ➾ First Comment is: Ürünü çeyizim için aldım uzun zamandır almak istiyodum fiyatları gerçekten çok uçuktu 200 küsüratlı bir fiyata aldım gerçekten her evde olması gereken bir ürün kargo çok sağlamdı kırık ve çizik yoktu çok teşekkür ederim
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.11 23:56:39 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.11 23:56:39 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.11 23:56:41 ➾ Cookies accepted!
+2022.12.11 23:56:48 ➾ Searched item: şarj
+2022.12.11 23:56:52 ➾ Clicking search button!
+2022.12.11 23:56:57 ➾ Clicking second item!
+2022.12.11 23:56:57 ➾ ITEM TITLE is: Xiaomi 33W Turbo Şarj Aleti Seti Type C 5A Qualcomm 4.0 Fiyatı
+2022.12.11 23:56:57 ➾ ITEM URL is: https://www.hepsiburada.com/xiaomi-33w-turbo-sarj-aleti-seti-type-c-5a-qualcomm-4-0-p-HBCV0000086UCK
+2022.12.11 23:56:57 ➾ ITEM PRICE is: 159,00 TL
+2022.12.11 23:56:58 ➾ Navigated to Comment Page!
+2022.12.11 23:56:59 ➾ First Comment is: Ürünü Aks Cosmetics den aldım.Kullandığım telefon Xiaomi Note 9 pro üzerindeki izlenimlerimi paylaşacağım.Şarj cihazı için herkesin kafasındaki soru işaretlerini gidermek için izlenimlerim şunlar;
+----------------------------- FIREFOX PART FINISH-----------------------------
+
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 01:52:20 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 01:52:20 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 01:52:21 ➾ Cookies accepted!
+2022.12.12 01:52:24 ➾ Searched item: FANUS
+2022.12.12 01:52:25 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 01:52:40 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 01:52:40 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 01:52:40 ➾ Cookies accepted!
+2022.12.12 01:52:46 ➾ Searched item: fanus
+2022.12.12 01:52:47 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 01:53:08 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 01:53:08 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 01:53:08 ➾ Cookies accepted!
+2022.12.12 01:53:11 ➾ Searched item: fanus
+2022.12.12 01:53:11 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 01:53:31 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 01:53:31 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 01:53:31 ➾ Cookies accepted!
+2022.12.12 01:53:38 ➾ Searched item: bebek bezi
+2022.12.12 01:53:38 ➾ Clicking search button!
+2022.12.12 01:53:46 ➾ Clicking second item!
+2022.12.12 01:53:48 ➾ ITEM TITLE is: Baby Turco Doğadan 4 Numara Maxi 60 Adet Fiyatı
+2022.12.12 01:53:48 ➾ ITEM URL is: https://www.hepsiburada.com/baby-turco-dogadan-4-numara-maxi-60-adet-p-HBCV00002ICSGT
+2022.12.12 01:53:49 ➾ ITEM PRICE is: 152,90 TL (Adet 2,55 TL)
+2022.12.12 01:53:49 ➾ Navigated to Comment Page!
+2022.12.12 01:53:50 ➾ First Comment is: İkizlerim için kullanıyorum anlatmaya gerek yok bayb turko tartışılamaz bile o kadar ki kaliteli kargo sağlam teşekkür ederiz kolay gelsin 🤩
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.12 01:54:06 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 01:54:06 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 01:54:08 ➾ Cookies accepted!
+2022.12.12 01:54:16 ➾ Searched item: şarj
+2022.12.12 01:54:21 ➾ Clicking search button!
+2022.12.12 01:54:22 ➾ Clicking second item!
+2022.12.12 01:54:22 ➾ ITEM TITLE is: 
+2022.12.12 01:54:22 ➾ ITEM URL is: about:blank
+2022.12.12 01:54:22 ➾ ITEM PRICE is: 159,00 TL
+2022.12.12 01:54:23 ➾ Navigated to Comment Page!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 01:54:59 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 01:54:59 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 01:54:59 ➾ Cookies accepted!
+2022.12.12 01:55:03 ➾ Searched item: şarj
+2022.12.12 01:55:03 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 01:55:20 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 01:55:20 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 01:55:20 ➾ Cookies accepted!
+2022.12.12 01:55:24 ➾ Searched item: şarj
+2022.12.12 01:55:25 ➾ Clicking search button!
+2022.12.12 01:55:33 ➾ Clicking second item!
+2022.12.12 01:55:36 ➾ ITEM TITLE is: Xiaomi 33W Turbo Şarj Aleti Seti Type C 5A Qualcomm 4.0 Fiyatı
+2022.12.12 01:55:36 ➾ ITEM URL is: https://www.hepsiburada.com/xiaomi-33w-turbo-sarj-aleti-seti-type-c-5a-qualcomm-4-0-p-HBCV0000086UCK
+2022.12.12 01:55:36 ➾ ITEM PRICE is: 159,00 TL
+2022.12.12 01:55:36 ➾ Navigated to Comment Page!
+2022.12.12 01:55:37 ➾ First Comment is: Ürünü Aks Cosmetics den aldım.Kullandığım telefon Xiaomi Note 9 pro üzerindeki izlenimlerimi paylaşacağım.Şarj cihazı için herkesin kafasındaki soru işaretlerini gidermek için izlenimlerim şunlar;
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.12 01:55:54 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 01:55:54 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 01:55:55 ➾ Cookies accepted!
+2022.12.12 01:56:03 ➾ Searched item: fanus
+2022.12.12 01:56:05 ➾ Clicking search button!
+2022.12.12 01:56:10 ➾ Clicking second item!
+2022.12.12 01:56:10 ➾ ITEM TITLE is: Paşabahçe Patisseri Ayaklı Cam Kapaklı Kek Fanusu Fiyatı
+2022.12.12 01:56:10 ➾ ITEM URL is: https://www.hepsiburada.com/pasabahce-patisseri-ayakli-cam-kapakli-kek-fanusu-p-MTFID95200
+2022.12.12 01:56:10 ➾ ITEM PRICE is: 290,00 TL
+2022.12.12 01:56:10 ➾ Navigated to Comment Page!
+2022.12.12 01:56:12 ➾ First Comment is: Ürünü çeyizim için aldım uzun zamandır almak istiyodum fiyatları gerçekten çok uçuktu 200 küsüratlı bir fiyata aldım gerçekten her evde olması gereken bir ürün kargo çok sağlamdı kırık ve çizik yoktu çok teşekkür ederim
+----------------------------- FIREFOX PART FINISH-----------------------------
+
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 01:56:54 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 01:56:54 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 01:56:54 ➾ Cookies accepted!
+2022.12.12 01:56:58 ➾ Searched item: sıvı yağ
+2022.12.12 01:56:59 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 01:57:15 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 01:57:15 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 01:57:15 ➾ Cookies accepted!
+2022.12.12 01:57:19 ➾ Searched item: sıvı yağ
+2022.12.12 01:57:20 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 01:57:36 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 01:57:36 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 01:57:36 ➾ Cookies accepted!
+2022.12.12 01:57:43 ➾ Searched item: sıvı yağ
+2022.12.12 01:57:43 ➾ Clicking search button!
+2022.12.12 01:57:47 ➾ Clicking second item!
+2022.12.12 01:57:50 ➾ ITEM TITLE is: Yudum Ayçiçek Yağı Teneke 5 LT Fiyatı - Taksit Seçenekleri
+2022.12.12 01:57:50 ➾ ITEM URL is: https://www.hepsiburada.com/yudum-aycicek-yagi-teneke-5-lt-p-ZYUDUM6011051
+2022.12.12 01:57:50 ➾ ITEM PRICE is: 210,90 TL
+2022.12.12 01:57:50 ➾ Navigated to Comment Page!
+2022.12.12 01:57:51 ➾ First Comment is: Üründe sorun yok taşıyıcı firma hepsijete böyle ürün teslimatı için çok teşekkür ederim :) Ne kadar uğraşsak bu hale getiremezdik :)
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.12 01:58:08 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 01:58:08 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 01:58:09 ➾ Cookies accepted!
+2022.12.12 01:58:21 ➾ Searched item: el sabunu
+2022.12.12 01:58:25 ➾ Clicking search button!
+2022.12.12 01:58:28 ➾ Clicking second item!
+2022.12.12 01:58:28 ➾ ITEM TITLE is: Eyüp Sabri Tuncer Okyanus Doğal Zeytinyağlı Sıvı Sabun 1.5 Fiyatı
+2022.12.12 01:58:28 ➾ ITEM URL is: https://www.hepsiburada.com/eyup-sabri-tuncer-okyanus-dogal-zeytinyagli-sivi-sabun-1-5-lt-p-HBCV000002086V
+2022.12.12 01:58:28 ➾ ITEM PRICE is: 59,95 TL
+2022.12.12 01:58:29 ➾ Navigated to Comment Page!
+2022.12.12 01:58:31 ➾ First Comment is: Ürün o kadar sağlam özenle paketlenmis ki ayrıca teşekkürler emeğinize sağlık...Uzun zamandır beğenerek ve güvenerek kullandığımız bir marka...Emeği geçen herkese çok teşekkürler
+----------------------------- FIREFOX PART FINISH-----------------------------
+
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 01:59:52 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 01:59:52 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 01:59:52 ➾ Cookies accepted!
+2022.12.12 01:59:59 ➾ Searched item: pil
+2022.12.12 01:59:59 ➾ Clicking search button!
+2022.12.12 02:00:04 ➾ Clicking second item!
+2022.12.12 02:00:09 ➾ ITEM TITLE is: Gp Cr2032 3V Lithium 5Li Kartela Fiyatı - Taksit Seçenekleri
+2022.12.12 02:00:09 ➾ ITEM URL is: https://www.hepsiburada.com/gp-cr2032-3v-lithium-5li-kartela-p-HBV000005TLQM
+2022.12.12 02:00:10 ➾ ITEM PRICE is: 33,00 TL
+2022.12.12 02:00:10 ➾ Navigated to Comment Page!
+2022.12.12 02:00:11 ➾ First Comment is: Ürünün son kullanma tarihi 2032 olarak geldi kargo sorunsuz bir şekilde ve zamanında elime ulaştı teşekkürler hepsiburada.
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.12 02:00:27 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 02:00:27 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 02:00:29 ➾ Cookies accepted!
+2022.12.12 02:00:42 ➾ Searched item: kalem
+2022.12.12 02:00:46 ➾ Clicking search button!
+2022.12.12 02:00:52 ➾ Clicking second item!
+2022.12.12 02:00:52 ➾ ITEM TITLE is: Stabilo Boss Original Pastel Renk Fosforlu Kalem 4'lü Paket Fiyatı
+2022.12.12 02:00:52 ➾ ITEM URL is: https://www.hepsiburada.com/stabilo-boss-original-pastel-renk-fosforlu-kalem-4-lu-paket-p-HBV000008OY26
+2022.12.12 02:00:52 ➾ ITEM PRICE is: 59,90 TL
+2022.12.12 02:00:52 ➾ Navigated to Comment Page!
+2022.12.12 02:00:54 ➾ First Comment is: Ürün elime sorunsuz ulaştı bunun için öncelikle hepsijete ve hepsiburadaya teşekkür ederim. Ürüne gelecek olursak bana da mavi renk yerine sarı geldi ama olsun o da çok güzel. Bu arada kalemi kaldırınca çok ufak arkaya izi belli oluyor ama bu benim için sıkıntı değil. Eke resimlerini eklerim. İyi günler...
+----------------------------- FIREFOX PART FINISH-----------------------------
+
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:19:19 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:19:19 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:19:19 ➾ Cookies accepted!
+2022.12.12 18:19:30 ➾ Searched item: bebek bezi
+2022.12.12 18:19:32 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:19:49 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:19:49 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:19:49 ➾ Cookies accepted!
+2022.12.12 18:19:52 ➾ Searched item: bebek bezi
+2022.12.12 18:19:52 ➾ Clicking search button!
+2022.12.12 18:20:01 ➾ Clicking second item!
+2022.12.12 18:20:03 ➾ ITEM TITLE is: Baby Turco Doğadan 4 Numara Maxi 60 Adet Fiyatı
+2022.12.12 18:20:03 ➾ ITEM URL is: https://www.hepsiburada.com/baby-turco-dogadan-4-numara-maxi-60-adet-p-HBCV00002ICSGT
+2022.12.12 18:20:03 ➾ ITEM PRICE is: 139,50 TL (Adet 2,33 TL)
+2022.12.12 18:20:03 ➾ Navigated to Comment Page!
+2022.12.12 18:20:05 ➾ First Comment is: İkizlerim için kullanıyorum anlatmaya gerek yok bayb turko tartışılamaz bile o kadar ki kaliteli kargo sağlam teşekkür ederiz kolay gelsin 🤩
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.12 18:20:21 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:20:21 ➾ Website URL is: https://www.hepsiburada.com/
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:20:36 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:20:36 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:20:36 ➾ Cookies accepted!
+2022.12.12 18:20:48 ➾ Searched item: fanus
+2022.12.12 18:20:48 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:21:05 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:21:05 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:21:05 ➾ Cookies accepted!
+2022.12.12 18:21:11 ➾ Searched item: fanus
+2022.12.12 18:21:11 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:21:39 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:21:39 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:21:40 ➾ Cookies accepted!
+2022.12.12 18:21:47 ➾ Searched item: fanus
+2022.12.12 18:21:48 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:22:20 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:22:20 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:22:20 ➾ Cookies accepted!
+2022.12.12 18:22:30 ➾ Searched item: bebek bezi
+2022.12.12 18:22:31 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:22:46 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:22:46 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:22:46 ➾ Cookies accepted!
+2022.12.12 18:22:52 ➾ Searched item: bebek bezi
+2022.12.12 18:22:52 ➾ Clicking search button!
+2022.12.12 18:22:56 ➾ Clicking second item!
+2022.12.12 18:22:58 ➾ ITEM TITLE is: Baby Turco Doğadan 4 Numara Maxi 60 Adet Fiyatı
+2022.12.12 18:22:58 ➾ ITEM URL is: https://www.hepsiburada.com/baby-turco-dogadan-4-numara-maxi-60-adet-p-HBCV00002ICSGT
+2022.12.12 18:22:58 ➾ ITEM PRICE is: 139,50 TL (Adet 2,33 TL)
+2022.12.12 18:22:59 ➾ Navigated to Comment Page!
+2022.12.12 18:23:00 ➾ First Comment is: İkizlerim için kullanıyorum anlatmaya gerek yok bayb turko tartışılamaz bile o kadar ki kaliteli kargo sağlam teşekkür ederiz kolay gelsin 🤩
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.12 18:23:15 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:23:15 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:23:17 ➾ Cookies accepted!
+2022.12.12 18:23:24 ➾ Searched item: fanus
+2022.12.12 18:23:28 ➾ Clicking search button!
+2022.12.12 18:23:28 ➾ Clicking second item!
+2022.12.12 18:23:28 ➾ ITEM TITLE is: 
+2022.12.12 18:23:28 ➾ ITEM URL is: about:blank
+2022.12.12 18:23:29 ➾ ITEM PRICE is: 290,00 TL
+2022.12.12 18:23:29 ➾ Navigated to Comment Page!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:24:00 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:24:00 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:24:00 ➾ Cookies accepted!
+2022.12.12 18:24:06 ➾ Searched item: bebek bezi
+2022.12.12 18:24:07 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:24:21 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:24:21 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:24:21 ➾ Cookies accepted!
+2022.12.12 18:24:24 ➾ Searched item: fanus
+2022.12.12 18:24:25 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:24:39 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:24:39 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:24:39 ➾ Cookies accepted!
+2022.12.12 18:24:41 ➾ Searched item: fanus
+2022.12.12 18:24:43 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:24:57 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:24:57 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:24:57 ➾ Cookies accepted!
+2022.12.12 18:25:08 ➾ Searched item: kuş yemi
+2022.12.12 18:25:09 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:25:27 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:25:27 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:25:28 ➾ Cookies accepted!
+2022.12.12 18:25:31 ➾ Searched item: kuş yemi
+2022.12.12 18:25:32 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:25:44 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:25:44 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:25:45 ➾ Cookies accepted!
+2022.12.12 18:25:47 ➾ Searched item: kus yemi
+2022.12.12 18:25:48 ➾ Clicking search button!
+2022.12.12 18:25:56 ➾ Clicking second item!
+2022.12.12 18:25:58 ➾ ITEM TITLE is: Versele Laga Muhabbet Kuşu Yemi 1 Kg Fiyatı - Taksit Seçenekleri
+2022.12.12 18:25:58 ➾ ITEM URL is: https://www.hepsiburada.com/versele-laga-muhabbet-kusu-yemi-1-kg-p-PTEVCMY07045
+2022.12.12 18:25:58 ➾ ITEM PRICE is: 66,40 TL
+2022.12.12 18:25:58 ➾ Navigated to Comment Page!
+2022.12.12 18:26:01 ➾ First Comment is: taze ürün,sağlam paketlenmiş,sıkıntısız alışveriş.
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.12 18:26:16 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:26:16 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:26:18 ➾ Cookies accepted!
+2022.12.12 18:26:23 ➾ Searched item: kedi maması
+2022.12.12 18:26:27 ➾ Clicking search button!
+2022.12.12 18:26:30 ➾ Clicking second item!
+2022.12.12 18:26:30 ➾ ITEM TITLE is: Pro Plan Derma Plus Elegant Hairball Somon Balıklı Kedi Fiyatı
+2022.12.12 18:26:30 ➾ ITEM URL is: https://www.hepsiburada.com/pro-plan-derma-plus-elegant-hairball-somon-balikli-kedi-mamasi-3-kg-p-PTKZ12169596
+2022.12.12 18:26:30 ➾ ITEM PRICE is: 411,84 TL
+2022.12.12 18:26:30 ➾ Navigated to Comment Page!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:27:17 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:27:17 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:27:17 ➾ Cookies accepted!
+2022.12.12 18:27:22 ➾ Searched item: kedi maması
+2022.12.12 18:27:23 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:27:37 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:27:37 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:27:37 ➾ Cookies accepted!
+2022.12.12 18:27:40 ➾ Searched item: kedi maması
+2022.12.12 18:27:41 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:28:04 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:28:04 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:28:04 ➾ Cookies accepted!
+2022.12.12 18:28:07 ➾ Searched item: kedi maması
+2022.12.12 18:28:08 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:28:39 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:28:39 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:28:39 ➾ Cookies accepted!
+2022.12.12 18:28:42 ➾ Searched item: kedi maması
+2022.12.12 18:28:43 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:31:14 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:31:14 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:31:14 ➾ Cookies accepted!
+2022.12.12 18:31:16 ➾ Searched item: fanus
+2022.12.12 18:31:17 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:31:34 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:31:34 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:31:35 ➾ Cookies accepted!
+2022.12.12 18:31:37 ➾ Searched item: fanus
+2022.12.12 18:31:37 ➾ Clicking search button!
+2022.12.12 18:31:42 ➾ Clicking second item!
+2022.12.12 18:31:44 ➾ ITEM TITLE is: Noel Baba ve Çam Ağacı Temalı LED Işıklı Fanus Fiyatı
+2022.12.12 18:31:44 ➾ ITEM URL is: https://www.hepsiburada.com/noel-baba-ve-cam-agaci-temali-led-isikli-fanus-p-HBCV000011X0M5
+2022.12.12 18:31:44 ➾ ITEM PRICE is: 129,00 TL
+2022.12.12 18:31:45 ➾ Navigated to Comment Page!
+2022.12.12 18:31:48 ➾ First Comment is: Ürün güzel ama keşke fotoğraftaki gibi gorselle birebir gelseydi
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.12 18:32:03 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:32:03 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:32:05 ➾ Cookies accepted!
+2022.12.12 18:32:11 ➾ Searched item: fanus
+2022.12.12 18:32:11 ➾ Clicking search button!
+2022.12.12 18:32:14 ➾ Clicking second item!
+2022.12.12 18:32:14 ➾ ITEM TITLE is: Paşabahçe Patisseri Ayaklı Cam Kapaklı Kek Fanusu Fiyatı
+2022.12.12 18:32:14 ➾ ITEM URL is: https://www.hepsiburada.com/pasabahce-patisseri-ayakli-cam-kapakli-kek-fanusu-p-MTFID95200
+2022.12.12 18:32:14 ➾ ITEM PRICE is: 290,00 TL
+2022.12.12 18:32:15 ➾ Navigated to Comment Page!
+2022.12.12 18:32:24 ➾ First Comment is: Ürünü çeyizim için aldım uzun zamandır almak istiyodum fiyatları gerçekten çok uçuktu 200 küsüratlı bir fiyata aldım gerçekten her evde olması gereken bir ürün kargo çok sağlamdı kırık ve çizik yoktu çok teşekkür ederim
+----------------------------- FIREFOX PART FINISH-----------------------------
+
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:33:40 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:33:40 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:33:40 ➾ Cookies accepted!
+2022.12.12 18:33:45 ➾ Searched item: kuş yemi
+2022.12.12 18:33:46 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:34:00 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:34:00 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:34:00 ➾ Cookies accepted!
+2022.12.12 18:34:09 ➾ Searched item: kuş yemi
+2022.12.12 18:34:10 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:35:16 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:35:16 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:35:16 ➾ Cookies accepted!
+2022.12.12 18:35:19 ➾ Searched item: mama
+2022.12.12 18:35:20 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:37:54 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:37:54 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:37:54 ➾ Cookies accepted!
+2022.12.12 18:37:59 ➾ Searched item: kedi kumu
+2022.12.12 18:38:00 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:38:15 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:38:15 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:38:15 ➾ Cookies accepted!
+2022.12.12 18:38:23 ➾ Searched item: kedi kumu
+2022.12.12 18:38:24 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:38:39 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:38:39 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:38:40 ➾ Cookies accepted!
+2022.12.12 18:38:42 ➾ Searched item: kedi kumu
+2022.12.12 18:38:43 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:39:23 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:39:23 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:39:24 ➾ Cookies accepted!
+2022.12.12 18:39:27 ➾ Searched item: kedi kumu
+2022.12.12 18:39:28 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:40:39 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:40:39 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:40:39 ➾ Cookies accepted!
+2022.12.12 18:40:45 ➾ Searched item: kedi kumu
+2022.12.12 18:40:46 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:41:35 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:41:35 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:41:35 ➾ Cookies accepted!
+2022.12.12 18:41:42 ➾ Searched item: sözlük
+2022.12.12 18:41:43 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:45:27 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:45:27 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:45:27 ➾ Cookies accepted!
+2022.12.12 18:45:33 ➾ Searched item: kedi kumu
+2022.12.12 18:45:34 ➾ Clicking search button!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:48:53 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:48:53 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:48:53 ➾ Cookies accepted!
+2022.12.12 18:48:57 ➾ Searched item: BEBEK BEZİ
+2022.12.12 18:48:58 ➾ Clicking search button!
+2022.12.12 18:49:06 ➾ Clicking second item!
+2022.12.12 18:49:08 ➾ ITEM TITLE is: Baby Turco Doğadan 4 Numara Maxi 60 Adet Fiyatı
+2022.12.12 18:49:08 ➾ ITEM URL is: https://www.hepsiburada.com/baby-turco-dogadan-4-numara-maxi-60-adet-p-HBCV00002ICSGT
+2022.12.12 18:49:08 ➾ ITEM PRICE is: 139,50 TL (Adet 2,33 TL)
+2022.12.12 18:49:09 ➾ Navigated to Comment Page!
+2022.12.12 18:49:12 ➾ First Comment is: İkizlerim için kullanıyorum anlatmaya gerek yok bayb turko tartışılamaz bile o kadar ki kaliteli kargo sağlam teşekkür ederiz kolay gelsin 🤩
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:49:22 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:49:22 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:49:23 ➾ Cookies accepted!
+2022.12.12 18:49:34 ➾ Searched item: tıraş köpüğü
+2022.12.12 18:49:35 ➾ Clicking search button!
+2022.12.12 18:49:42 ➾ Clicking second item!
+2022.12.12 18:49:44 ➾ ITEM TITLE is: Arko Men Cool Tıraş Köpüğü 2’li Avantaj Paketi (2x200 ml) Fiyatı
+2022.12.12 18:49:44 ➾ ITEM URL is: https://www.hepsiburada.com/arko-men-cool-tiras-kopugu-2-li-avantaj-paketi-2x200-ml-p-HBV00000D31H1
+2022.12.12 18:49:44 ➾ ITEM PRICE is: 85,00 TL %11
+2022.12.12 18:49:45 ➾ Navigated to Comment Page!
+2022.12.12 18:49:50 ➾ First Comment is: SATICI ADI= { Hepsiburada } --- HEPSİBURADA
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:50:33 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:50:33 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:50:33 ➾ Cookies accepted!
+2022.12.12 18:50:43 ➾ Searched item: monster notbook
+2022.12.12 18:50:44 ➾ Clicking search button!
+2022.12.12 18:50:51 ➾ Clicking second item!
+2022.12.12 18:50:53 ➾ ITEM TITLE is: Monster Abra A5 V19.2.5 Intel Core i5-12500H 16GB RAM 500GB Fiyatı
+2022.12.12 18:50:53 ➾ ITEM URL is: https://www.hepsiburada.com/monster-abra-a5-v19-2-5-intel-core-i5-12500h-16gb-ram-500gb-ssd-4gb-rtx3050ti-freedos-15-6-fhd-144hz-oyun-bilgisayari-p-HBCV00002RJF1J
+2022.12.12 18:50:54 ➾ ITEM PRICE is: 18.999,00 TL
+2022.12.12 18:50:54 ➾ Navigated to Comment Page!
+2022.12.12 18:50:57 ➾ First Comment is: Ben aldım menunum ömürlük PC çok hızlı kargolama çok iyi paketleme müşteri ile iletişim sorunları çözme hemen iletişim kurma çok çok iyi  yanında flaş ile driverleri geliyor işletim sistemi içerisinde yok fredoss diye korkmayın internette artık herşey mevcut işletim sistemini 3 dakika bile sürmeden yükledi kısa lafın kısası yorumları okuyan kardeşimlerim bana güven al derim.
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.12 18:51:12 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:51:12 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:51:14 ➾ Cookies accepted!
+2022.12.12 18:51:25 ➾ Searched item: dell
+2022.12.12 18:51:26 ➾ Clicking search button!
+2022.12.12 18:51:29 ➾ Clicking second item!
+2022.12.12 18:51:29 ➾ ITEM TITLE is: 
+2022.12.12 18:51:29 ➾ ITEM URL is: about:blank
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.12 18:54:28 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:54:28 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:54:30 ➾ Cookies accepted!
+2022.12.12 18:54:35 ➾ Searched item: iphone 11
+2022.12.12 18:54:36 ➾ Clicking search button!
+2022.12.12 18:54:43 ➾ Clicking second item!
+2022.12.12 18:54:43 ➾ ITEM TITLE is: Apple iPhone 11 Fiyatı & Özellikleri Hepsiburada'da. Tıkla, Sipariş ver!
+2022.12.12 18:54:43 ➾ ITEM URL is: https://www.hepsiburada.com/iphone-11-64-gb-p-HBV0000120X66
+2022.12.12 18:54:43 ➾ ITEM PRICE is: 15.847,46 TL
+2022.12.12 18:54:44 ➾ Navigated to Comment Page!
+2022.12.12 18:54:49 ➾ First Comment is: Sanırım dünyadaki en iyi akıllı telefon iPhone 11 oldu. Kamerası profesyonel kamerayı aratmıyor. Şarjı çok iyi gidiyor. Normal kullanımda 2 gün rahat rahat kullanabiliyorsunuz. 3. Gün öğlen saatlerinde şarj cihazını arıyorsunuz. Bu zamana kadar çıkan tüm iPhone modellerini kullandım ama 11 hepsinin ötesinde olmuş. Menü geçişleri ve internet akışı olağanüstü hızlı. İki sim kart takılması, iki hat ile arama yapabilme seçeneği eklenmesi  büyük sürpriz oldu. Cam ve aliminyum malzeme ile plastik bir telefonu tutmak arasındaki farkı dibine kadar hissediyorsunuz. Çıkış fiyatı Türkiye şartlarımızda tabi ki herkesin alabilmesini engelliyor ama ödenen paranın hakkını da sonuna kadar veriyor ki belirli bir süre kullanıp satsanız bile, temiz kullandıysanız maddi olarak sizi yine üzmüyor. Bu telefonlar altın gibi. İmkanı olan hiç düşünmeden alsın. Almış olanlar güle güle kullansın. Almak isteyip de alamayanlara da nasip olmasını dilerim
+----------------------------- FIREFOX PART FINISH-----------------------------
+
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:55:11 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:55:11 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:55:11 ➾ Cookies accepted!
+2022.12.12 18:55:18 ➾ Searched item: iphone 11
+2022.12.12 18:55:19 ➾ Clicking search button!
+2022.12.12 18:55:25 ➾ Clicking second item!
+2022.12.12 18:55:27 ➾ ITEM TITLE is: Apple iPhone 11 Fiyatı & Özellikleri Hepsiburada'da. Tıkla, Sipariş ver!
+2022.12.12 18:55:27 ➾ ITEM URL is: https://www.hepsiburada.com/iphone-11-64-gb-p-HBV0000120X66
+2022.12.12 18:55:27 ➾ ITEM PRICE is: 15.847,46 TL
+2022.12.12 18:55:28 ➾ Navigated to Comment Page!
+2022.12.12 18:55:34 ➾ First Comment is: Sanırım dünyadaki en iyi akıllı telefon iPhone 11 oldu. Kamerası profesyonel kamerayı aratmıyor. Şarjı çok iyi gidiyor. Normal kullanımda 2 gün rahat rahat kullanabiliyorsunuz. 3. Gün öğlen saatlerinde şarj cihazını arıyorsunuz. Bu zamana kadar çıkan tüm iPhone modellerini kullandım ama 11 hepsinin ötesinde olmuş. Menü geçişleri ve internet akışı olağanüstü hızlı. İki sim kart takılması, iki hat ile arama yapabilme seçeneği eklenmesi  büyük sürpriz oldu. Cam ve aliminyum malzeme ile plastik bir telefonu tutmak arasındaki farkı dibine kadar hissediyorsunuz. Çıkış fiyatı Türkiye şartlarımızda tabi ki herkesin alabilmesini engelliyor ama ödenen paranın hakkını da sonuna kadar veriyor ki belirli bir süre kullanıp satsanız bile, temiz kullandıysanız maddi olarak sizi yine üzmüyor. Bu telefonlar altın gibi. İmkanı olan hiç düşünmeden alsın. Almış olanlar güle güle kullansın. Almak isteyip de alamayanlara da nasip olmasını dilerim
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.12 18:55:49 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:55:49 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:55:51 ➾ Cookies accepted!
+2022.12.12 18:55:56 ➾ Searched item: kolonya
+2022.12.12 18:55:57 ➾ Clicking search button!
+2022.12.12 18:56:01 ➾ Clicking second item!
+2022.12.12 18:56:01 ➾ ITEM TITLE is: 
+2022.12.12 18:56:01 ➾ ITEM URL is: about:blank
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:58:35 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:58:35 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:58:35 ➾ Cookies accepted!
+2022.12.12 18:58:42 ➾ Searched item: redbull
+2022.12.12 18:58:43 ➾ Clicking search button!
+2022.12.12 18:58:50 ➾ Clicking second item!
+2022.12.12 18:58:52 ➾ ITEM TITLE is: Red Bull Enerji İçeceği 4x250 ml Fiyatı - Taksit Seçenekleri
+2022.12.12 18:58:52 ➾ ITEM URL is: https://www.hepsiburada.com/red-bull-enerji-icecegi-4x250-ml-p-HBV00000JUHHS
+2022.12.12 18:58:52 ➾ ITEM PRICE is: 56,95 TL
+2022.12.12 18:58:52 ➾ Navigated to Comment Page!
+2022.12.12 18:58:55 ➾ First Comment is: 10 adet sipariş verdim ilk kargoda 7 adet geldi  satıcıya bildirdim eksik olan 3 adet ürünüm yerine 4adet gönderilmişti çok tsk ederim hemen ilgilenildi 🙏🏻
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.12 18:59:10 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:59:10 ➾ Website URL is: https://www.hepsiburada.com/
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 18:59:27 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 18:59:27 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 18:59:28 ➾ Cookies accepted!
+2022.12.12 18:59:32 ➾ Searched item: diş macunu
+2022.12.12 18:59:33 ➾ Clicking search button!
+2022.12.12 18:59:40 ➾ Clicking second item!
+2022.12.12 18:59:43 ➾ ITEM TITLE is: Eyüp Sabri Tuncer Doğal Aktif Bambu Karbonlu Diş Macunu 75 Fiyatı
+2022.12.12 18:59:43 ➾ ITEM URL is: https://www.hepsiburada.com/eyup-sabri-tuncer-dogal-aktif-bambu-karbonlu-dis-macunu-75-ml-p-HBV00000OW9UM
+2022.12.12 18:59:43 ➾ ITEM PRICE is: 29,90 TL
+2022.12.12 18:59:43 ➾ Navigated to Comment Page!
+2022.12.12 18:59:45 ➾ First Comment is: Reklamlarda diger markaları siddetle tavsiye eden bi diş hekimi degilim ama bu markayı ve diş macununu sıradan bi vatandas olarak siddetle tavsiye ediyorum :)
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.12 19:00:01 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 19:00:01 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 19:00:02 ➾ Cookies accepted!
+2022.12.12 19:00:12 ➾ Searched item: balık yemi
+2022.12.12 19:00:15 ➾ Clicking search button!
+2022.12.12 19:00:18 ➾ Clicking second item!
+2022.12.12 19:00:18 ➾ ITEM TITLE is: Pandora Caridina 7,6cm 6,5gr Silikon Karides Yem Fiyatı
+2022.12.12 19:00:18 ➾ ITEM URL is: https://www.hepsiburada.com/pandora-caridina-7-6cm-6-5gr-silikon-karides-yem-p-HBV0000138KIT
+2022.12.12 19:00:18 ➾ ITEM PRICE is: 120,90 TL
+2022.12.12 19:00:19 ➾ Navigated to Comment Page!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.12 19:02:28 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 19:02:28 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 19:02:28 ➾ Cookies accepted!
+2022.12.12 19:02:33 ➾ Searched item: oyuncak
+2022.12.12 19:02:34 ➾ Clicking search button!
+2022.12.12 19:02:41 ➾ Clicking second item!
+2022.12.12 19:02:44 ➾ ITEM TITLE is: Play-Doh 4'lü Hamur - B6508 Klasik Renkler 448 g Fiyatı
+2022.12.12 19:02:44 ➾ ITEM URL is: https://www.hepsiburada.com/play-doh-4-lu-hamur-b6508-klasik-renkler-448-g-p-HBV00000575PI
+2022.12.12 19:02:44 ➾ ITEM PRICE is: 29,90 TL
+2022.12.12 19:02:44 ➾ Navigated to Comment Page!
+2022.12.12 19:02:46 ➾ First Comment is: Fiyatı ve gramajı olarak değerlendirdiğimizde piyasaya göre çok uygun ve ucuza almış oluyorsunuz.Hamur hemen kuruma yapmıyor.Buradan Hepsiburada aracılığıyla bir öneri vermek istiyorum.Çocuğunuz bir müddet oynadıktan sonra hamurlar çatlamaya başladığı zaman oyun hamurunu yassı hale getirip iki adet ıslak mendile sardıktan sonra temiz bir poşetin içerisine koyup sarın.Yaklaşık 5-6 saat sonra poşeti açtığınızda oyun hamurunun ilk günkü yumuşaklığına ve kıvamına ulaştığını göreceksiniz.Tabi sardığınız ıslak mendilinde kup kuru olduğunu kendiniz göreceksiniz.Bu oyun hamuru markasını özellikle netteki çok benzer ürün isimleriyle karıştırmayın.Aksi halde pişman olabilirsiniz.
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.12 19:03:01 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 19:03:01 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 19:03:03 ➾ Cookies accepted!
+2022.12.12 19:03:11 ➾ Searched item: iphone 11
+2022.12.12 19:03:12 ➾ Clicking search button!
+2022.12.12 19:03:16 ➾ Clicking second item!
+2022.12.12 19:03:16 ➾ ITEM TITLE is: 
+2022.12.12 19:03:16 ➾ ITEM URL is: about:blank
+2022.12.12 19:03:16 ➾ ITEM PRICE is: 15.847,46 TL
+2022.12.12 19:03:17 ➾ Navigated to Comment Page!
+2022.12.12 19:03:27 ➾ First Comment is: Sanırım dünyadaki en iyi akıllı telefon iPhone 11 oldu. Kamerası profesyonel kamerayı aratmıyor. Şarjı çok iyi gidiyor. Normal kullanımda 2 gün rahat rahat kullanabiliyorsunuz. 3. Gün öğlen saatlerinde şarj cihazını arıyorsunuz. Bu zamana kadar çıkan tüm iPhone modellerini kullandım ama 11 hepsinin ötesinde olmuş. Menü geçişleri ve internet akışı olağanüstü hızlı. İki sim kart takılması, iki hat ile arama yapabilme seçeneği eklenmesi  büyük sürpriz oldu. Cam ve aliminyum malzeme ile plastik bir telefonu tutmak arasındaki farkı dibine kadar hissediyorsunuz. Çıkış fiyatı Türkiye şartlarımızda tabi ki herkesin alabilmesini engelliyor ama ödenen paranın hakkını da sonuna kadar veriyor ki belirli bir süre kullanıp satsanız bile, temiz kullandıysanız maddi olarak sizi yine üzmüyor. Bu telefonlar altın gibi. İmkanı olan hiç düşünmeden alsın. Almış olanlar güle güle kullansın. Almak isteyip de alamayanlara da nasip olmasını dilerim
+----------------------------- FIREFOX PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.12 19:05:24 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 19:05:24 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 19:05:26 ➾ Cookies accepted!
+2022.12.12 19:05:35 ➾ Searched item: iphone 11
+2022.12.12 19:05:38 ➾ Clicking search button!
+2022.12.12 19:05:40 ➾ Clicking second item!
+2022.12.12 19:05:40 ➾ ITEM TITLE is: Apple iPhone 11 Fiyatı & Özellikleri Hepsiburada'da. Tıkla, Sipariş ver!
+2022.12.12 19:05:40 ➾ ITEM URL is: https://www.hepsiburada.com/iphone-11-64-gb-p-HBV0000120X66
+2022.12.12 19:05:40 ➾ ITEM PRICE is: 15.847,46 TL
+2022.12.12 19:05:41 ➾ Navigated to Comment Page!
+2022.12.12 19:05:48 ➾ First Comment is: Sanırım dünyadaki en iyi akıllı telefon iPhone 11 oldu. Kamerası profesyonel kamerayı aratmıyor. Şarjı çok iyi gidiyor. Normal kullanımda 2 gün rahat rahat kullanabiliyorsunuz. 3. Gün öğlen saatlerinde şarj cihazını arıyorsunuz. Bu zamana kadar çıkan tüm iPhone modellerini kullandım ama 11 hepsinin ötesinde olmuş. Menü geçişleri ve internet akışı olağanüstü hızlı. İki sim kart takılması, iki hat ile arama yapabilme seçeneği eklenmesi  büyük sürpriz oldu. Cam ve aliminyum malzeme ile plastik bir telefonu tutmak arasındaki farkı dibine kadar hissediyorsunuz. Çıkış fiyatı Türkiye şartlarımızda tabi ki herkesin alabilmesini engelliyor ama ödenen paranın hakkını da sonuna kadar veriyor ki belirli bir süre kullanıp satsanız bile, temiz kullandıysanız maddi olarak sizi yine üzmüyor. Bu telefonlar altın gibi. İmkanı olan hiç düşünmeden alsın. Almış olanlar güle güle kullansın. Almak isteyip de alamayanlara da nasip olmasını dilerim
+----------------------------- FIREFOX PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.12 19:06:12 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.12 19:06:12 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.12 19:06:14 ➾ Cookies accepted!
+2022.12.12 19:06:18 ➾ Searched item: iphone11
+2022.12.12 19:06:19 ➾ Clicking search button!
+2022.12.12 19:06:23 ➾ Clicking second item!
+2022.12.12 19:06:23 ➾ ITEM TITLE is: Apple iPhone 11 Fiyatı & Özellikleri Hepsiburada'da. Tıkla, Sipariş ver!
+2022.12.12 19:06:23 ➾ ITEM URL is: https://www.hepsiburada.com/iphone-11-64-gb-p-HBV0000120X66
+2022.12.12 19:06:23 ➾ ITEM PRICE is: 15.847,46 TL
+2022.12.12 19:06:25 ➾ Navigated to Comment Page!
+2022.12.12 19:06:29 ➾ First Comment is: Sanırım dünyadaki en iyi akıllı telefon iPhone 11 oldu. Kamerası profesyonel kamerayı aratmıyor. Şarjı çok iyi gidiyor. Normal kullanımda 2 gün rahat rahat kullanabiliyorsunuz. 3. Gün öğlen saatlerinde şarj cihazını arıyorsunuz. Bu zamana kadar çıkan tüm iPhone modellerini kullandım ama 11 hepsinin ötesinde olmuş. Menü geçişleri ve internet akışı olağanüstü hızlı. İki sim kart takılması, iki hat ile arama yapabilme seçeneği eklenmesi  büyük sürpriz oldu. Cam ve aliminyum malzeme ile plastik bir telefonu tutmak arasındaki farkı dibine kadar hissediyorsunuz. Çıkış fiyatı Türkiye şartlarımızda tabi ki herkesin alabilmesini engelliyor ama ödenen paranın hakkını da sonuna kadar veriyor ki belirli bir süre kullanıp satsanız bile, temiz kullandıysanız maddi olarak sizi yine üzmüyor. Bu telefonlar altın gibi. İmkanı olan hiç düşünmeden alsın. Almış olanlar güle güle kullansın. Almak isteyip de alamayanlara da nasip olmasını dilerim
+----------------------------- FIREFOX PART FINISH-----------------------------
+
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.13 00:44:33 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.13 00:44:33 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.13 00:44:34 ➾ Cookies accepted!
+2022.12.13 00:44:41 ➾ Searched item: telefon kabı
+2022.12.13 00:44:42 ➾ Clicking search button!
+2022.12.13 00:44:52 ➾ Clicking second item!
+2022.12.13 00:44:54 ➾ ITEM TITLE is: Xshine Huawei P30 Lite Için Uyumlu Telefon Kabı - Turuncu Fiyatı
+2022.12.13 00:44:54 ➾ ITEM URL is: https://www.hepsiburada.com/xshine-huawei-p30-lite-icin-uyumlu-telefon-kabi-turuncu-yurt-disindan-p-HBCV000039QB83
+2022.12.13 00:44:54 ➾ ITEM PRICE is: 177,19 TL %4
+2022.12.13 00:44:55 ➾ Navigated to Comment Page!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.13 00:45:14 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.13 00:45:14 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.13 00:45:14 ➾ Cookies accepted!
+2022.12.13 00:45:22 ➾ Searched item: kalem pil
+2022.12.13 00:45:23 ➾ Clicking search button!
+2022.12.13 00:45:31 ➾ Clicking second item!
+2022.12.13 00:45:34 ➾ ITEM TITLE is: Duracell Basic İnce Kalem Pil 10'lu AAA Fiyatı - Taksit Seçenekleri
+2022.12.13 00:45:34 ➾ ITEM URL is: https://www.hepsiburada.com/duracell-basic-ince-kalem-pil-10-lu-aaa-p-HBV00000QORTE
+2022.12.13 00:45:34 ➾ ITEM PRICE is: 84,90 TL
+2022.12.13 00:45:34 ➾ Navigated to Comment Page!
+2022.12.13 00:45:36 ➾ First Comment is: Uygun fiyat a aldım hepsi burada ya teşekkür ediyorum hem vaktinde teslimat için hemde uygun fiyat a bu ürün sattığı için 2 paket aldım 20 adet kumanda vs için tak pilleri uzun süre pil derdi olmasin
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.13 00:45:54 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.13 00:45:54 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.13 00:45:55 ➾ Cookies accepted!
+2022.12.13 00:46:04 ➾ Searched item: iphone 13
+2022.12.13 00:46:05 ➾ Clicking search button!
+2022.12.13 00:46:07 ➾ Clicking second item!
+2022.12.13 00:46:07 ➾ ITEM TITLE is: iPhone 13 256 GB Fiyatı, Taksit Seçenekleri ile Satın Al
+2022.12.13 00:46:07 ➾ ITEM URL is: https://www.hepsiburada.com/iphone-13-256-gb-p-HBCV00000ODHW6
+2022.12.13 00:46:07 ➾ ITEM PRICE is: 28.699,00 TL
+2022.12.13 00:46:08 ➾ Navigated to Comment Page!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.13 00:47:21 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.13 00:47:21 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.13 00:47:21 ➾ Cookies accepted!
+2022.12.13 00:47:25 ➾ Searched item: iphone 11
+2022.12.13 00:47:26 ➾ Clicking search button!
+2022.12.13 00:47:35 ➾ Clicking second item!
+2022.12.13 00:47:37 ➾ ITEM TITLE is: Apple iPhone 11 Fiyatı & Özellikleri Hepsiburada'da. Tıkla, Sipariş ver!
+2022.12.13 00:47:37 ➾ ITEM URL is: https://www.hepsiburada.com/iphone-11-64-gb-p-HBV0000120X65
+2022.12.13 00:47:38 ➾ ITEM PRICE is: 15.895,40 TL
+2022.12.13 00:47:38 ➾ Navigated to Comment Page!
+2022.12.13 00:47:43 ➾ First Comment is: Sanırım dünyadaki en iyi akıllı telefon iPhone 11 oldu. Kamerası profesyonel kamerayı aratmıyor. Şarjı çok iyi gidiyor. Normal kullanımda 2 gün rahat rahat kullanabiliyorsunuz. 3. Gün öğlen saatlerinde şarj cihazını arıyorsunuz. Bu zamana kadar çıkan tüm iPhone modellerini kullandım ama 11 hepsinin ötesinde olmuş. Menü geçişleri ve internet akışı olağanüstü hızlı. İki sim kart takılması, iki hat ile arama yapabilme seçeneği eklenmesi  büyük sürpriz oldu. Cam ve aliminyum malzeme ile plastik bir telefonu tutmak arasındaki farkı dibine kadar hissediyorsunuz. Çıkış fiyatı Türkiye şartlarımızda tabi ki herkesin alabilmesini engelliyor ama ödenen paranın hakkını da sonuna kadar veriyor ki belirli bir süre kullanıp satsanız bile, temiz kullandıysanız maddi olarak sizi yine üzmüyor. Bu telefonlar altın gibi. İmkanı olan hiç düşünmeden alsın. Almış olanlar güle güle kullansın. Almak isteyip de alamayanlara da nasip olmasını dilerim
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.13 00:48:00 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.13 00:48:00 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.13 00:48:01 ➾ Cookies accepted!
+2022.12.13 00:48:06 ➾ Searched item: bebek bezi
+2022.12.13 00:48:06 ➾ Clicking search button!
+2022.12.13 00:48:10 ➾ Clicking second item!
+2022.12.13 00:48:10 ➾ ITEM TITLE is: Baby Turco Doğadan 4 Numara Maxi 60 Adet Fiyatı
+2022.12.13 00:48:10 ➾ ITEM URL is: https://www.hepsiburada.com/baby-turco-dogadan-4-numara-maxi-60-adet-p-HBCV00002ICSGT
+2022.12.13 00:48:11 ➾ ITEM PRICE is: 150,90 TL (Adet 2,52 TL)
+2022.12.13 00:48:13 ➾ Navigated to Comment Page!
+2022.12.13 00:48:20 ➾ First Comment is: İkizlerim için kullanıyorum anlatmaya gerek yok bayb turko tartışılamaz bile o kadar ki kaliteli kargo sağlam teşekkür ederiz kolay gelsin 🤩
+----------------------------- FIREFOX PART FINISH-----------------------------
+
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.13 00:49:53 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.13 00:49:53 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.13 00:49:53 ➾ Cookies accepted!
+2022.12.13 00:49:59 ➾ Searched item: İPHONE X
+2022.12.13 00:50:00 ➾ Clicking search button!
+2022.12.13 00:50:09 ➾ Clicking second item!
+2022.12.13 00:50:11 ➾ ITEM TITLE is: iPhone 13 128 GB Fiyatı, Taksit Seçenekleri ile Satın Al
+2022.12.13 00:50:11 ➾ ITEM URL is: https://www.hepsiburada.com/iphone-13-128-gb-p-HBCV00000ODHHV
+2022.12.13 00:50:12 ➾ ITEM PRICE is: 27.979,00 TL
+2022.12.13 00:50:12 ➾ Navigated to Comment Page!
+2022.12.13 00:50:14 ➾ First Comment is: Batarya düşündüğümden çok daha uzun sürüyor.Yeni ekranı gerçekten büyükeyici.İşlemcinin hızı uzay ötesi.Sadece bu tür telefonlara bu kadar para verirken bir silikon kap veyahutta ekran koruyucu film cıkmaması üzüyor.Üstüne üstlük pazarlama stratejisi olarak insanlara priz kafası aldırmak için çevrecilik yalanı arkasına sığınmasına gerek olmadığını düşünüyorum.Onun dışında cihaz gayet güzel ve tatlı.Olmayana da nasip olur inşallah
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.13 00:50:32 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.13 00:50:32 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.13 00:50:32 ➾ Cookies accepted!
+2022.12.13 00:50:36 ➾ Searched item: fanus
+2022.12.13 00:50:37 ➾ Clicking search button!
+2022.12.13 00:50:41 ➾ Clicking second item!
+2022.12.13 00:50:41 ➾ ITEM TITLE is: 
+2022.12.13 00:50:41 ➾ ITEM URL is: about:blank
+2022.12.13 00:50:42 ➾ ITEM PRICE is: 298,90 TL
+2022.12.13 00:50:44 ➾ Navigated to Comment Page!
+2022.12.13 00:50:48 ➾ First Comment is: Ürünü çeyizim için aldım uzun zamandır almak istiyodum fiyatları gerçekten çok uçuktu 200 küsüratlı bir fiyata aldım gerçekten her evde olması gereken bir ürün kargo çok sağlamdı kırık ve çizik yoktu çok teşekkür ederim
+----------------------------- FIREFOX PART FINISH-----------------------------
+
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.19 11:45:08 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.19 11:45:08 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.19 11:45:08 ➾ Cookies accepted!
+2022.12.19 11:45:12 ➾ Searched item: bebek bezi
+2022.12.19 11:45:16 ➾ Clicking search button!
+2022.12.19 11:45:25 ➾ Clicking second item!
+2022.12.19 11:45:30 ➾ ITEM TITLE is: Molfix Bebek Bezi Beden:5 (11-18Kg) Junior 78 Adet Ultra Fiyatı
+2022.12.19 11:45:30 ➾ ITEM URL is: https://www.hepsiburada.com/molfix-bebek-bezi-beden-5-11-18kg-junior-78-adet-ultra-firsat-paketi-p-HBCV00002LE5WV
+2022.12.19 11:45:31 ➾ ITEM PRICE is: 169,89 TL (Adet 2,18 TL)
+2022.12.19 11:45:33 ➾ Navigated to Comment Page!
+2022.12.19 11:45:36 ➾ First Comment is: İlk defa alıyorum başka marka kullanıyordum indirimde olunca aldım kargo hızlı paketleme sağlam karşılaştırdım evdeki bezle  bu daha büyük  👍🏻 teşekkür ederim
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.19 11:45:58 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.19 11:45:58 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.19 11:45:59 ➾ Cookies accepted!
+2022.12.19 11:46:04 ➾ Searched item: iphone 13
+2022.12.19 11:46:05 ➾ Clicking search button!
+2022.12.19 11:46:09 ➾ Clicking second item!
+2022.12.19 11:46:09 ➾ ITEM TITLE is: 
+2022.12.19 11:46:09 ➾ ITEM URL is: about:blank
+2022.12.19 11:46:09 ➾ ITEM PRICE is: 26.799,00 TL
+2022.12.19 11:46:12 ➾ Navigated to Comment Page!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.19 11:47:18 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.19 11:47:18 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.19 11:47:18 ➾ Cookies accepted!
+2022.12.19 11:47:40 ➾ Searched item: cam fanus
+2022.12.19 11:47:41 ➾ Clicking search button!
+2022.12.19 11:47:55 ➾ Clicking second item!
+2022.12.19 11:47:59 ➾ ITEM TITLE is: Dayı Pet Küçük Boy Dayanıklı Cam Fanus Balık ve Çiçek Dekoru Fiyatı
+2022.12.19 11:47:59 ➾ ITEM URL is: https://www.hepsiburada.com/dayi-pet-kucuk-boy-dayanikli-cam-fanus-balik-ve-cicek-dekoru-p-HBCV00002CSMJU
+2022.12.19 11:47:59 ➾ ITEM PRICE is: 128,00 TL
+2022.12.19 11:48:00 ➾ Navigated to Comment Page!
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.19 11:48:23 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.19 11:48:23 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.19 11:48:23 ➾ Cookies accepted!
+2022.12.19 11:48:28 ➾ Searched item: bebek bezi
+2022.12.19 11:48:30 ➾ Clicking search button!
+2022.12.19 11:48:43 ➾ Clicking second item!
+2022.12.19 11:48:47 ➾ ITEM TITLE is: Molfix Bebek Bezi Beden:5 (11-18Kg) Junior 78 Adet Ultra Fiyatı
+2022.12.19 11:48:47 ➾ ITEM URL is: https://www.hepsiburada.com/molfix-bebek-bezi-beden-5-11-18kg-junior-78-adet-ultra-firsat-paketi-p-HBCV00002LE5WV
+2022.12.19 11:48:48 ➾ ITEM PRICE is: 169,89 TL (Adet 2,18 TL)
+2022.12.19 11:48:48 ➾ Navigated to Comment Page!
+2022.12.19 11:48:51 ➾ First Comment is: İlk defa alıyorum başka marka kullanıyordum indirimde olunca aldım kargo hızlı paketleme sağlam karşılaştırdım evdeki bezle  bu daha büyük  👍🏻 teşekkür ederim
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.19 11:49:08 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.19 11:49:08 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.19 11:49:11 ➾ Cookies accepted!
+2022.12.19 11:49:18 ➾ Searched item: iphone 11
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.19 11:52:49 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.19 11:52:49 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.19 11:52:50 ➾ Cookies accepted!
+2022.12.19 11:52:55 ➾ Searched item: iphone 11
+2022.12.19 11:52:56 ➾ Clicking search button!
+2022.12.19 11:53:08 ➾ Clicking second item!
+2022.12.19 11:53:11 ➾ ITEM TITLE is: Apple iPhone 11 Fiyatı & Özellikleri Hepsiburada'da. Tıkla, Sipariş ver!
+2022.12.19 11:53:11 ➾ ITEM URL is: https://www.hepsiburada.com/iphone-11-64-gb-p-HBV0000120X65
+2022.12.19 11:53:11 ➾ ITEM PRICE is: 15.987,71 TL
+2022.12.19 11:53:12 ➾ Navigated to Comment Page!
+2022.12.19 11:53:17 ➾ First Comment is: Sanırım dünyadaki en iyi akıllı telefon iPhone 11 oldu. Kamerası profesyonel kamerayı aratmıyor. Şarjı çok iyi gidiyor. Normal kullanımda 2 gün rahat rahat kullanabiliyorsunuz. 3. Gün öğlen saatlerinde şarj cihazını arıyorsunuz. Bu zamana kadar çıkan tüm iPhone modellerini kullandım ama 11 hepsinin ötesinde olmuş. Menü geçişleri ve internet akışı olağanüstü hızlı. İki sim kart takılması, iki hat ile arama yapabilme seçeneği eklenmesi  büyük sürpriz oldu. Cam ve aliminyum malzeme ile plastik bir telefonu tutmak arasındaki farkı dibine kadar hissediyorsunuz. Çıkış fiyatı Türkiye şartlarımızda tabi ki herkesin alabilmesini engelliyor ama ödenen paranın hakkını da sonuna kadar veriyor ki belirli bir süre kullanıp satsanız bile, temiz kullandıysanız maddi olarak sizi yine üzmüyor. Bu telefonlar altın gibi. İmkanı olan hiç düşünmeden alsın. Almış olanlar güle güle kullansın. Almak isteyip de alamayanlara da nasip olmasını dilerim
+----------------------------- CHROME PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.19 11:53:35 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.19 11:53:35 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.19 11:53:37 ➾ Cookies accepted!
+2022.12.19 11:53:46 ➾ Searched item: iphone 11
+2022.12.19 11:53:47 ➾ Clicking search button!
+2022.12.19 11:53:50 ➾ Clicking second item!
+2022.12.19 11:53:50 ➾ ITEM TITLE is: Apple iPhone 11 Fiyatı & Özellikleri Hepsiburada'da. Tıkla, Sipariş ver!
+2022.12.19 11:53:50 ➾ ITEM URL is: https://www.hepsiburada.com/iphone-11-64-gb-p-HBV0000120X65
+2022.12.19 11:53:50 ➾ ITEM PRICE is: 15.987,71 TL
+2022.12.19 11:53:53 ➾ Navigated to Comment Page!
+2022.12.19 11:54:02 ➾ First Comment is: Sanırım dünyadaki en iyi akıllı telefon iPhone 11 oldu. Kamerası profesyonel kamerayı aratmıyor. Şarjı çok iyi gidiyor. Normal kullanımda 2 gün rahat rahat kullanabiliyorsunuz. 3. Gün öğlen saatlerinde şarj cihazını arıyorsunuz. Bu zamana kadar çıkan tüm iPhone modellerini kullandım ama 11 hepsinin ötesinde olmuş. Menü geçişleri ve internet akışı olağanüstü hızlı. İki sim kart takılması, iki hat ile arama yapabilme seçeneği eklenmesi  büyük sürpriz oldu. Cam ve aliminyum malzeme ile plastik bir telefonu tutmak arasındaki farkı dibine kadar hissediyorsunuz. Çıkış fiyatı Türkiye şartlarımızda tabi ki herkesin alabilmesini engelliyor ama ödenen paranın hakkını da sonuna kadar veriyor ki belirli bir süre kullanıp satsanız bile, temiz kullandıysanız maddi olarak sizi yine üzmüyor. Bu telefonlar altın gibi. İmkanı olan hiç düşünmeden alsın. Almış olanlar güle güle kullansın. Almak isteyip de alamayanlara da nasip olmasını dilerim
+----------------------------- FIREFOX PART FINISH-----------------------------
+
+----------------------------- CHROME PART IS OPENING -----------------------------
+2022.12.19 11:54:21 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.19 11:54:21 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.19 11:54:22 ➾ Cookies accepted!
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.19 11:55:03 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.19 11:55:03 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.19 11:55:04 ➾ Cookies accepted!
+2022.12.19 11:55:29 ➾ Searched item: iphone 11
+2022.12.19 11:55:29 ➾ Clicking search button!
+2022.12.19 11:55:36 ➾ Clicking second item!
+2022.12.19 11:55:36 ➾ ITEM TITLE is: Apple iPhone 11 Fiyatı & Özellikleri Hepsiburada'da. Tıkla, Sipariş ver!
+2022.12.19 11:55:36 ➾ ITEM URL is: https://www.hepsiburada.com/iphone-11-64-gb-p-HBV0000120X65
+2022.12.19 11:55:36 ➾ ITEM PRICE is: 15.987,71 TL
+2022.12.19 11:55:40 ➾ Navigated to Comment Page!
+2022.12.19 11:55:44 ➾ First Comment is: Sanırım dünyadaki en iyi akıllı telefon iPhone 11 oldu. Kamerası profesyonel kamerayı aratmıyor. Şarjı çok iyi gidiyor. Normal kullanımda 2 gün rahat rahat kullanabiliyorsunuz. 3. Gün öğlen saatlerinde şarj cihazını arıyorsunuz. Bu zamana kadar çıkan tüm iPhone modellerini kullandım ama 11 hepsinin ötesinde olmuş. Menü geçişleri ve internet akışı olağanüstü hızlı. İki sim kart takılması, iki hat ile arama yapabilme seçeneği eklenmesi  büyük sürpriz oldu. Cam ve aliminyum malzeme ile plastik bir telefonu tutmak arasındaki farkı dibine kadar hissediyorsunuz. Çıkış fiyatı Türkiye şartlarımızda tabi ki herkesin alabilmesini engelliyor ama ödenen paranın hakkını da sonuna kadar veriyor ki belirli bir süre kullanıp satsanız bile, temiz kullandıysanız maddi olarak sizi yine üzmüyor. Bu telefonlar altın gibi. İmkanı olan hiç düşünmeden alsın. Almış olanlar güle güle kullansın. Almak isteyip de alamayanlara da nasip olmasını dilerim
+----------------------------- FIREFOX PART FINISH-----------------------------
+
+----------------------------- FIREFOX PART IS OPENING -----------------------------
+2022.12.19 11:56:37 ➾ Website Title is: Türkiye'nin En Büyük Online Alışveriş Sitesi Hepsiburada.com
+2022.12.19 11:56:37 ➾ Website URL is: https://www.hepsiburada.com/
+2022.12.19 11:56:39 ➾ Cookies accepted!
+2022.12.19 11:56:46 ➾ Searched item: tahta kalemi
+2022.12.19 11:56:47 ➾ Clicking search button!
+2022.12.19 11:56:52 ➾ Clicking second item!
+2022.12.19 11:56:52 ➾ ITEM TITLE is: 
+2022.12.19 11:56:52 ➾ ITEM URL is: about:blank
+2022.12.19 11:56:53 ➾ ITEM PRICE is: 96,25 TL
+2022.12.19 11:56:56 ➾ Navigated to Comment Page!
+2022.12.19 11:57:02 ➾ First Comment is: Renkler güzel. Arkadan sıvı mürekkeple doluyor. İnce uçlu.
+----------------------------- FIREFOX PART FINISH-----------------------------
+
